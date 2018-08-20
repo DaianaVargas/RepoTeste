@@ -46,7 +46,7 @@ Os testes unitários foram criados com o intuito de testar se os métodos estão
 
 ## Autor
 
-* **Daiana Vargas** - *Primeiro projeto* 
+* **Daiana Vargas** - *Primeiro projeto no GitHub* 
 
 ## Licença
 
